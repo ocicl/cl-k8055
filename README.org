@@ -4,6 +4,6 @@ Interface to Velleman's K8055D USB kit
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/Shinmera/cl-k8055.git |
-| commit  | 9bd0c65                                      |
+| commit  | 4494ad4                                      |
 | systems | cl-k8055                                     |
 |---------+----------------------------------------------|
